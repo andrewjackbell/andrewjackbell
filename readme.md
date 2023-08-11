@@ -19,7 +19,7 @@ I am interested in computational linguistics, NLG, computer vision and more.
 * Pre-processed data and extracted features (Tf-Idf and GloVe) from large twitter datasets 
 * Experimented with linear machine learning (MaxEnt) and deep learning methods (LSTM, BERT), for sentiment classification
   
-[UG Dissertation](https://dcs.warwick.ac.uk/~u5501145/Dissertation.pdf): **Word Level Language Identification on Code Switched Social Media Text (NLP)**
+[UG Dissertation](https://github.com/andrewjackbell/andrewjackbell/blob/main/ug_dissertation.pdf): **Word Level Language Identification on Code Switched Social Media Text (NLP)**
 
 * Extracted code switched (mixed language) language data from Twitter to form a dataset.
 * Implemented a character n-gram based language model to extract relevant information from the language data
