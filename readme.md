@@ -8,13 +8,16 @@ I am interested in computational linguistics, NLG, computer vision and more.
 
 ## Projects
 
-<u>Master's Thesis (Ongoing)</u>: **NLP for Pharmacovigilance**
+[MSc Thesis](https://github.com/andrewjackbell/Causal-T2T): **Table-to-Text Generation for Biomedical Causal Inference**
+* Improved an AI-based causal inference framework for studying adverse drug effects
+* Performed seq2seq transformer finetuning and LLM prompting to generate text from tabular reports
+* Evaluated my methods on a liver failure case study, finding more causal factors than the original framework
 
-[Computational Pathology](https://dcs.warwick.ac.uk/~u5501145/cpath.pdf) **TP53 Mutation Status Prediction in Lung Adenocarcinoma**
+[Computational Pathology](https://github.com/andrewjackbell/andrewjackbell/blob/main/cpath.pdf) **TP53 Mutation Status Prediction in Lung Adenocarcinoma**
 
 * Applied multiple instane learning (MIL) to predict mutation status in LUAD histology images
 
-[NLP Project](https://github.com/saltdrew/Sentiment-Analysis): **Sentiment Analysis (SemEval 2017 Task 4a)**
+[NLP Project](https://github.com/andrewjackbell/Sentiment-Analysis): **Sentiment Analysis (SemEval 2017 Task 4a)**
 
 * Pre-processed data and extracted features (Tf-Idf and GloVe) from large twitter datasets 
 * Experimented with linear machine learning (MaxEnt) and deep learning methods (LSTM, BERT), for sentiment classification
@@ -26,7 +29,7 @@ I am interested in computational linguistics, NLG, computer vision and more.
 * Used a number of linear classifiers in three different settings, two of which capture contextual information.
 * Conducted  experiments for each model and classifier setting, the best of which achieved over 90% accuracy.
 
-[Compilers](https://github.com/saltdrew/C--Interpreter) **Interpreter for a C-like language with Functional Programming Features**
+[Compilers](https://github.com/andrewjackbell/C--Interpreter) **Interpreter for a C-like language with Functional Programming Features**
 
 * Built an interpreter for the language using test driven development. Correctness of the interpreter was verified at each stage. 
 * Features such as functions as arguments, function composition and functions as return values were added
