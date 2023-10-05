@@ -1,10 +1,6 @@
 ## About
 
-I am a postgraduate computer science student, specialising in Natural Language Processing (NLP).
-
-Currently I study MSc Computer Science at the University of Warwick, and hold a BSc in Computer Science from the University of Bath.
-
-I am interested in computational linguistics, NLG, computer vision and more. 
+I'm involved in AI research with a focus on using NLP techniques for biomedical applications. I earned my MSc in Computer Science at the University of Warwick and my BSc in Computer Science at the University of Bath. My interests include computational linguistics, NLG, computer vision, and more.
 
 ## Projects
 
